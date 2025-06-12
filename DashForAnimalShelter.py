@@ -1,6 +1,6 @@
 # Set up the Jupyter version of Dash
 # Configure the necessary Python module import libraries
-
+import os
 from dash import Dash, dash_table, html, dcc
 from dash.dependencies import Input, Output, State
 import urllib.parse
@@ -423,4 +423,5 @@ def update_graph(viewdata):
 
 # app.run(debug=True)
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 8050))
+    app.run(host="0.0.0.0", port=port, debug=False)
