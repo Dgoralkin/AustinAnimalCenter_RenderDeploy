@@ -23,8 +23,8 @@ from AnimalShelter import AnimalShelter
 ###########################
 # ReadWrite predefined Username credentials
 ###########################
-# username = "aacuser"
-# password = "SNHU1234"
+# username = os.environ["AAC_username"]
+# password = os.environ["AAC_password"]
 # host = "localhost"
 # port = 27017
 # database = "AAC"
