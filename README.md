@@ -29,10 +29,10 @@ It is designed to streamline the querying, rendering, filtering, and visualizati
 ## 🖼️ Application Screenshots
 
 ### ✅ Dashboard View Before Login
-![Dashboard View Before Login](https://github.com/Dgoralkin/Portfolio/blob/main/CS_340_ClientServer_Development/Project_2-Austin%20Animal%20Center/ScreenShots/Dashboard_View_Before_Login.png)
+![Dashboard View Before Login](https://github.com/Dgoralkin/AustinAnimalCenter_RenderDeploy/blob/main/ScreenShots/Dashboard_View_Before_Login.png)
 
 ### ✅ Dashboard View After Login
-![Dashboard View After Login](https://github.com/Dgoralkin/Portfolio/blob/main/CS_340_ClientServer_Development/Project_2-Austin%20Animal%20Center/ScreenShots/Dashboard_View_After_Login.png)
+![Dashboard View After Login](https://github.com/Dgoralkin/AustinAnimalCenter_RenderDeploy/blob/main/ScreenShots/Dashboard_View_After_Login.png)
 
 ---
 
@@ -110,7 +110,7 @@ Ensure the following tools are installed:
    ```bash
    pip install dash dash-bootstrap-components dash-leaflet pandas plotly pymongo
    ```
-   ![Dashboard rror Handlers](https://github.com/Dgoralkin/Portfolio/blob/main/CS_340_ClientServer_Development/Project_2-Austin%20Animal%20Center/ScreenShots/RequiredLibs.png)
+   ![Dashboard error Handlers](https://github.com/Dgoralkin/AustinAnimalCenter_RenderDeploy/blob/main/ScreenShots/RequiredLibs.png)
 
 ---
 
@@ -150,7 +150,7 @@ The application gracefully handles:
 - Manual filters that yield no results.
 
 ### 🪲 Dashboard Error Handlers
-![Dashboard rror Handlers](https://github.com/Dgoralkin/Portfolio/blob/main/CS_340_ClientServer_Development/Project_2-Austin%20Animal%20Center/ScreenShots/Error_Handling_Examples.png)
+![Dashboard rror Handlers](https://github.com/Dgoralkin/AustinAnimalCenter_RenderDeploy/blob/main/ScreenShots/Error_Handling_Examples.png)
 ---
 
 ## 🛠️ Project Development Notes
