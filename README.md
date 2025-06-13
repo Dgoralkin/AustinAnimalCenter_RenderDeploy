@@ -23,6 +23,7 @@ It is designed to streamline the querying, rendering, filtering, and visualizati
 
 ### 💥 Try It Now Live!
 🕹 Run a live app demo in a real browser:
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm50empubHhqN2N6YXdyNzloNm14aWNjcGgxeGxnemljeTRxMjF5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aT3HkQgHLlCrvQWmPj/giphy.gif" alt="Play it Live onrender.com" width="200">
 - [Click the link to Play it Live on austinanimalcenter.com](https://austinanimalcenter-sers.onrender.com)
 
