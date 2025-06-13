@@ -21,7 +21,7 @@ It is designed to streamline the querying, rendering, filtering, and visualizati
 
 ---
 
-### Try It Now Live!
+### 💥 Try It Now Live!
 ![Run Austin Animal Center Demo Dashboard in a live environment](https://austinanimalcenter-sers.onrender.com)
 
 ---
