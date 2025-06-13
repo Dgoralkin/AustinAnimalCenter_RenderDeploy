@@ -22,7 +22,8 @@ It is designed to streamline the querying, rendering, filtering, and visualizati
 ---
 
 ### 💥 Try It Now Live!
-![Run Austin Animal Center Demo Dashboard in a live environment](https://austinanimalcenter-sers.onrender.com)
+🕹 Run a live demo off the app in a real browser:
+- [Play Live onrender.com](https://austinanimalcenter-sers.onrender.com)
 
 ---
 
