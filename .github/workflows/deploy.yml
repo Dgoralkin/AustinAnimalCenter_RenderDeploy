@@ -1,9 +1,10 @@
+# This file set up the Deploy Dash App to Render workflow on GitHub Actions
 name: Deploy Dash App to Render
 
 on:
   push:
     branches:
-      - main  # or "master" if your branch is named that
+      - main
 
 jobs:
   build-and-deploy:
@@ -26,6 +27,7 @@ jobs:
     - name: Run basic test (optional)
       run: python -c "import dash"
 
-    # Ping Render webhook to trigger deploy
+    # Ping Render webhook to trigger deploy.
+    # Reads RENDER_DEPLOY_HOOK_URL from Actions secrets and variables
     - name: Trigger Render Deploy Hook
       run: curl -X POST "${{ secrets.RENDER_DEPLOY_HOOK_URL }}"

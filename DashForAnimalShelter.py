@@ -64,7 +64,7 @@ app.layout = dbc.Container([
             )
         ),
         html.H1(
-            'SNHU CS-340 AnimalShelter Dashboard - By Daniel Gorelkin - TESTING!!!',
+            'SNHU CS-340 AnimalShelter Dashboard - By Daniel Gorelkin',
             style={
                 'color': 'blue',
                 'fontSize': 24,
